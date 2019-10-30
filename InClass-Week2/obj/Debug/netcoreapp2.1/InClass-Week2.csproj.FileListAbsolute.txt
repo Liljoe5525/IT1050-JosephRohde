@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\bin\Debug\netcoreapp2.1\InClass-Week2.deps.json
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\bin\Debug\netcoreapp2.1\InClass-Week2.runtimeconfig.json
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\bin\Debug\netcoreapp2.1\InClass-Week2.runtimeconfig.dev.json
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\bin\Debug\netcoreapp2.1\InClass-Week2.dll
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\bin\Debug\netcoreapp2.1\InClass-Week2.pdb
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.AssemblyInfo.cs
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.dll
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.pdb
+C:\Users\Student\Documents\InClass-Week2\InClass-Week2\obj\Debug\netcoreapp2.1\InClass-Week2.csprojAssemblyReference.cache
